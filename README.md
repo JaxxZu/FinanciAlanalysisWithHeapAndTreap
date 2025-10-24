@@ -2,7 +2,7 @@
 
 開發演算法 @企鵝72487   
 使用演算法 @SiroKu_   
-繪圖 Jaxx Zu [@Jaxx9527](https://github.com/Jaxx9527)   
+繪圖 Jaxx Zu [@JaxxZu](https://github.com/JaxxZu)   
 寫報告 @提醒我打程式  
 # 報告Canva連結
 [DATA STRUCTURE FINAL PROJECT](./report.pdf)
