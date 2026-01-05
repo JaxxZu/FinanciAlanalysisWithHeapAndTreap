@@ -1,5 +1,7 @@
 # 資料結構 2024期末專題
+基於 Heap 與 Implicit Treap 的金融資料處理與分析  
 
+## 分工
 開發演算法 @企鵝72487   
 使用演算法 @SiroKu_   
 繪圖 Jaxx Zu [@JaxxZu](https://github.com/JaxxZu)   
